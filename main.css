@@ -1,8 +1,8 @@
 body {
-  background: violet;
+  background: yellow;
 }
 h1 {
-  color: aqua;
-  text-transform: lowercase;
+  color: red;
+  text-transform: uppercase;
   text-align: center;
 }
